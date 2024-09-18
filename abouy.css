@@ -1,0 +1,29 @@
+.all{
+    border: 2px solid ;
+    display: flex;
+    width: 600px;
+}
+.h4{
+    color: aliceblue;
+    background-color: black;
+    width: 120px;
+    border-radius: 30px;
+    text-align: center;
+    font-style: italic;
+    height: 20px;
+}
+.h2{
+    font-style: oblique;
+    width: 320px;
+}
+.price{
+    text-decoration: line-through;
+    font-size: 18px;
+    font-style: italic;
+    height: 6px;
+}
+.h{
+    font-size: 30px;
+    
+    
+}
